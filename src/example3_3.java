@@ -25,6 +25,9 @@ public class example3_3 {
 
         System.out.println("===========================");
         System.out.println("인공지능 프로그램의 성능(오차의 제곱 합) : " + performance);
+        
+        
+        // 수정 테스트
 
 
 
